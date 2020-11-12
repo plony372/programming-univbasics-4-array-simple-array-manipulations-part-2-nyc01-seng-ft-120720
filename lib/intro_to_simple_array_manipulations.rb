@@ -15,3 +15,7 @@ end
 def using_flatten(array)
 array.flatten
 end
+
+def using_delete(array, s_tring)
+array.delete(s_tring)
+end
