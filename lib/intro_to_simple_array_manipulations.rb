@@ -19,3 +19,7 @@ end
 def using_delete(array, s_tring)
 array.delete(s_tring)
 end
+
+def using_delete_at(array, i_nteger)
+  array.delete_at(i_nteger)
+end
